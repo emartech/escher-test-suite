@@ -49,7 +49,7 @@
         ],
         [
           "X-Ems-Auth",
-          "EMS-HMAC-SHA256 Credential=AKIDEXAMPLE/20110909/us-east-1/iam/aws4_request, SignedHeaders=host;user-agent;x-ems-date, Signature=c01d81aa6aa390f6fa44b1df492289101d4485e3c4220ce1ba48ab6b0f5a6403"
+          "EMS-HMAC-SHA256 Credential=AKIDEXAMPLE/20110909/us-east-1/iam/aws4_request, SignedHeaders=host;user-agent;x-ems-date, Signature=78d85fda2f51136d41c6b7dee1a80c8a2060496ae6cac0ad8ca2867d0b2cc4db"
         ]
       ],
       "body": "Action=ListUsers&Version=2010-05-08"
